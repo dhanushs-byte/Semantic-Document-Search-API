@@ -1,0 +1,123 @@
+
+[
+    {
+        "id": 1,
+        "query": "How can employees apply for annual leave?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 1
+    },
+    {
+        "id": 2,
+        "query": "What is the annual leave policy?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 1
+    },
+    {
+        "id": 3,
+        "query": "Who should receive a leave application?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 1
+    },
+    {
+        "id": 4,
+        "query": "What are the rules for planned leave?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 1
+    },
+    {
+        "id": 5,
+        "query": "When should employees submit leave requests?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 1
+    },
+    {
+        "id": 6,
+        "query": "Can employees take sick leave?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "id": 7,
+        "query": "Is a medical certificate needed for extended sick leave?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "id": 8,
+        "query": "What happens when an employee is unwell?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 2
+    },
+    {
+        "id": 9,
+        "query": "Who approves employee leave?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 3
+    },
+    {
+        "id": 10,
+        "query": "How can I check my remaining leave balance?",
+        "expected_source": "leave_policy.pdf",
+        "expected_page": 3
+    },
+    {
+        "id": 11,
+        "query": "What are the company's standard working hours?",
+        "expected_source": "employee_policy.txt",
+        "expected_page": 1
+    },
+    {
+        "id": 12,
+        "query": "When does the working day start and finish?",
+        "expected_source": "employee_policy.txt",
+        "expected_page": 1
+    },
+    {
+        "id": 13,
+        "query": "Which days do employees work?",
+        "expected_source": "employee_policy.txt",
+        "expected_page": 1
+    },
+    {
+        "id": 14,
+        "query": "What are the attendance requirements?",
+        "expected_source": "employee_policy.txt",
+        "expected_page": 1
+    },
+    {
+        "id": 15,
+        "query": "Can employees request remote work?",
+        "expected_source": "employee_policy.txt",
+        "expected_page": 2
+    },
+    {
+        "id": 16,
+        "query": "How can I request work from home?",
+        "expected_source": "employee_policy.txt",
+        "expected_page": 2
+    },
+    {
+        "id": 17,
+        "query": "How do I reset my account password?",
+        "expected_source": "user_guide.docx",
+        "expected_page": 1
+    },
+    {
+        "id": 18,
+        "query": "What should I do if I forget my password?",
+        "expected_source": "user_guide.docx",
+        "expected_page": 1
+    },
+    {
+        "id": 19,
+        "query": "How can users protect their account credentials?",
+        "expected_source": "user_guide.docx",
+        "expected_page": 2
+    },
+    {
+        "id": 20,
+        "query": "Why should users create strong passwords?",
+        "expected_source": "user_guide.docx",
+        "expected_page": 2
+    }
+]

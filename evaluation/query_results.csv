@@ -1,0 +1,21 @@
+id,query,expected_source,expected_page,correct_rank,reciprocal_rank,hit_at_1,hit_at_3,hit_at_5
+1,How can employees apply for annual leave?,leave_policy.pdf,1,1,1.0,1,1,1
+2,What is the annual leave policy?,leave_policy.pdf,1,1,1.0,1,1,1
+3,Who should receive a leave application?,leave_policy.pdf,1,2,0.5,0,1,1
+4,What are the rules for planned leave?,leave_policy.pdf,1,1,1.0,1,1,1
+5,When should employees submit leave requests?,leave_policy.pdf,1,2,0.5,0,1,1
+6,Can employees take sick leave?,leave_policy.pdf,2,1,1.0,1,1,1
+7,Is a medical certificate needed for extended sick leave?,leave_policy.pdf,2,1,1.0,1,1,1
+8,What happens when an employee is unwell?,leave_policy.pdf,2,1,1.0,1,1,1
+9,Who approves employee leave?,leave_policy.pdf,3,1,1.0,1,1,1
+10,How can I check my remaining leave balance?,leave_policy.pdf,3,1,1.0,1,1,1
+11,What are the company's standard working hours?,employee_policy.txt,1,1,1.0,1,1,1
+12,When does the working day start and finish?,employee_policy.txt,1,1,1.0,1,1,1
+13,Which days do employees work?,employee_policy.txt,1,1,1.0,1,1,1
+14,What are the attendance requirements?,employee_policy.txt,1,1,1.0,1,1,1
+15,Can employees request remote work?,employee_policy.txt,2,1,1.0,1,1,1
+16,How can I request work from home?,employee_policy.txt,2,1,1.0,1,1,1
+17,How do I reset my account password?,user_guide.docx,1,1,1.0,1,1,1
+18,What should I do if I forget my password?,user_guide.docx,1,1,1.0,1,1,1
+19,How can users protect their account credentials?,user_guide.docx,2,1,1.0,1,1,1
+20,Why should users create strong passwords?,user_guide.docx,2,1,1.0,1,1,1

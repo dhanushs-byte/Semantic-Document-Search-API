@@ -1,0 +1,4 @@
+id,query,expected_source,expected_page,correct_rank,reciprocal_rank,hit_at_1,hit_at_3,hit_at_5
+3,Who should receive a leave application?,leave_policy.pdf,1,2,0.5,0,1,1
+5,When should employees submit leave requests?,leave_policy.pdf,1,2,0.5,0,1,1
+1,How can employees apply for annual leave?,leave_policy.pdf,1,1,1.0,1,1,1
